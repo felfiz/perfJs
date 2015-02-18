@@ -1,3 +1,5 @@
+'use strict';
+
 function PerformanceTest(implement, params, repetitions) {
   this.implement = implement;
   this.params = params;
